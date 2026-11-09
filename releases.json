@@ -1,48 +1,53 @@
 {
-  "format": 1,
+  "format": 2,
   "projects": {
-    "example-script": {
-      "latest": "a1e4fa49044a6230f47b3403c94dafa224b52c2f",
-      "releases": {
-        "a1e4fa49044a6230f47b3403c94dafa224b52c2f": {
-          "files": {
-            "Main.lua": {
-              "sha256": "e49f053a6b3a0b24cced2dfecead9310fa83d37e1bcc60f85cb31f2cae3c9ade",
-              "source_sha256": "0901a9eef3c294183caee9a6e6202127d785d83d661a57230a5e37c96d52a73c"
-            }
-          },
-          "project_version": "0.1",
-          "revision": "a1e4fa49044a6230f47b3403c94dafa224b52c2f",
-          "version": "v2"
-        },
-        "a7074fe8c7688f59b94958f2b36da1ad061963d7": {
-          "files": {
-            "Main.lua": {
-              "sha256": "be5f78972ff22f4acee2bc8325315583aecea52d67011a80c1feec771a88023a",
-              "source_sha256": "0901a9eef3c294183caee9a6e6202127d785d83d661a57230a5e37c96d52a73c"
-            }
-          },
-          "project_version": "0.1",
-          "revision": "a7074fe8c7688f59b94958f2b36da1ad061963d7",
-          "version": "v2"
-        }
-      }
+    "anime-adventures": {
+      "file": "AnimeAdventures.lua",
+      "project_revision": "v2",
+      "project_version": "2.1.0",
+      "revision": "20a1ad4c1b37cf5000b84b79a2f800d5ff20d224",
+      "sha256": "67ac2ac40da77368d4e51bdafe9abf6e9bedb9ba7f72e8fea617ff35ed474251",
+      "source_sha256": "94f56392a5f75682a2165fa5577fe657b4bf8d8370df732a9aa83deece4d98d5"
+    },
+    "loader": {
+      "file": "Loader.lua",
+      "project_revision": "v1",
+      "project_version": "1.0.0",
+      "revision": "20a1ad4c1b37cf5000b84b79a2f800d5ff20d224",
+      "sha256": "6810dbc89458471a6713afa7b672c7b8ee160bdbce8310b47442e58bd123217e",
+      "source_sha256": "6d21587a0082cc1f267d5ea811de9e327ba6d21226f3de82489b7bc2ee9780ad"
+    },
+    "mm2": {
+      "file": "MM2.lua",
+      "project_revision": "v1",
+      "project_version": "0.7.0",
+      "revision": "20a1ad4c1b37cf5000b84b79a2f800d5ff20d224",
+      "sha256": "ae8a6bf4576f09f8f9a15417aca3e4b973ec205e3908ecd090803919b7d80b25",
+      "source_sha256": "ed65f544cebbe634b701141480b403248da7a02b9c030d7dbfb7a93ca2559718"
+    },
+    "rivals": {
+      "file": "Rivals.lua",
+      "project_revision": "v3",
+      "project_version": "2.1.1",
+      "revision": "20a1ad4c1b37cf5000b84b79a2f800d5ff20d224",
+      "sha256": "c7044fe0655c966b7d908efd513748d9e26a39511d1aca78af0cc07d9cbbbd4a",
+      "source_sha256": "a6e5791772369b96c6b177f32141aa9cf08ef1d560cfa796d378f125a3f9cc1e"
+    },
+    "sainthub-core": {
+      "file": "SaintHubCore.lua",
+      "project_revision": "v4",
+      "project_version": "0.4.0",
+      "revision": "20a1ad4c1b37cf5000b84b79a2f800d5ff20d224",
+      "sha256": "9f85a31aa8a6b5d333705129dc8bcb8d3f7d1f8b73c9e31f4fe8eb6952dfac47",
+      "source_sha256": "0d95f336a5fc3cb3141e3daf2d27ca8dc2a692ba733628208e3403a6361f17b6"
     },
     "saintui": {
-      "latest": "a7074fe8c7688f59b94958f2b36da1ad061963d7",
-      "releases": {
-        "a7074fe8c7688f59b94958f2b36da1ad061963d7": {
-          "files": {
-            "SaintUI.lua": {
-              "sha256": "2adb999c2b8f03b842133f7dc0b88e6a7822f4f7c96e648da72b66303f3af1cb",
-              "source_sha256": "4dbfb95c3c335023bc9ac1d3ae4472877a6d8debd7ab19f9253c62d2bee73418"
-            }
-          },
-          "project_version": "0.19",
-          "revision": "a7074fe8c7688f59b94958f2b36da1ad061963d7",
-          "version": "v19"
-        }
-      }
+      "file": "SaintUI.lua",
+      "project_revision": "v19",
+      "project_version": "0.19",
+      "revision": "20a1ad4c1b37cf5000b84b79a2f800d5ff20d224",
+      "sha256": "a5c94d006d2f90ddcfb15174e499cd7c4b90b1236d88bdb3c23ffd246058e98d",
+      "source_sha256": "4dbfb95c3c335023bc9ac1d3ae4472877a6d8debd7ab19f9253c62d2bee73418"
     }
   }
 }
