@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "projects": {
+    "example-script": {
+      "latest": "a1e4fa49044a6230f47b3403c94dafa224b52c2f",
+      "releases": {
+        "a1e4fa49044a6230f47b3403c94dafa224b52c2f": {
+          "files": {
+            "Main.lua": {
+              "sha256": "e49f053a6b3a0b24cced2dfecead9310fa83d37e1bcc60f85cb31f2cae3c9ade",
+              "source_sha256": "0901a9eef3c294183caee9a6e6202127d785d83d661a57230a5e37c96d52a73c"
+            }
+          },
+          "project_version": "0.1",
+          "revision": "a1e4fa49044a6230f47b3403c94dafa224b52c2f",
+          "version": "v2"
+        }
+      }
+    }
+  }
+}
