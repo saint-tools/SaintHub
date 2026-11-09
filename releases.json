@@ -2,7 +2,7 @@
   "format": 1,
   "projects": {
     "example-script": {
-      "latest": "a1e4fa49044a6230f47b3403c94dafa224b52c2f",
+      "latest": "a7074fe8c7688f59b94958f2b36da1ad061963d7",
       "releases": {
         "a1e4fa49044a6230f47b3403c94dafa224b52c2f": {
           "files": {
@@ -13,6 +13,17 @@
           },
           "project_version": "0.1",
           "revision": "a1e4fa49044a6230f47b3403c94dafa224b52c2f",
+          "version": "v2"
+        },
+        "a7074fe8c7688f59b94958f2b36da1ad061963d7": {
+          "files": {
+            "Main.lua": {
+              "sha256": "be5f78972ff22f4acee2bc8325315583aecea52d67011a80c1feec771a88023a",
+              "source_sha256": "0901a9eef3c294183caee9a6e6202127d785d83d661a57230a5e37c96d52a73c"
+            }
+          },
+          "project_version": "0.1",
+          "revision": "a7074fe8c7688f59b94958f2b36da1ad061963d7",
           "version": "v2"
         }
       }
